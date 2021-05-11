@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="reservation">Reservation</string>
+    <string name="fillDetails">Fill in the details to reserve a table</string>
+    <string name="smoking">Smoking</string>
+    <string name="reset">Reset</string>
+    <string name="reserve">Reserve</string>
+</resources>
